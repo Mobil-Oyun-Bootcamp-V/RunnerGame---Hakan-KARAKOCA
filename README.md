@@ -1,4 +1,4 @@
 # RunnerGame---Hakan-KARAKOCA
 RunnerGame - Hakan KARAKOCA
 
-![intro](RunnerGame---Hakan-KARAKOCA/Assets/intro.JPG)
+![intro](https://github.com/Mobil-Oyun-Bootcamp-V/RunnerGame---Hakan-KARAKOCA/blob/master/Assets/intro.JPG)
