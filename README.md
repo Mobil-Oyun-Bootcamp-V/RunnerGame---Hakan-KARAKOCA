@@ -1,4 +1,4 @@
 # RunnerGame---Hakan-KARAKOCA
 RunnerGame - Hakan KARAKOCA
 
-![intro](/Assets/intro.jpg)
+![intro](RunnerGame---Hakan-KARAKOCA/Assets/intro.JPG)
